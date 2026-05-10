@@ -1,0 +1,5 @@
+com\devops\urlshortener\model\UrlMapping.class
+com\devops\urlshortener\UrlShortenerApplication.class
+com\devops\urlshortener\controller\UrlController.class
+com\devops\urlshortener\service\UrlService.class
+com\devops\urlshortener\repository\UrlRepository.class
